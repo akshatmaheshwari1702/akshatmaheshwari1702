@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true&count_private=true)
+
 <!--
 **akshatmaheshwari1702/akshatmaheshwari1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
