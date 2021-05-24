@@ -1,18 +1,24 @@
-### Hi there 👋
+<h1 align="center" style="border-bottom: none">Hi there 👋</h1>
+<h2 align="center" >I am a computer science undergraduate who loves to learn and explore new things and work on it.</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true&count_private=true)
+- 🔭 I’m currently persuing my Bachelor in Technology in Computer Science Engineering!
+- 🌱 I’m currently learning new technologies every day
+- 👯 I’m looking to collaborate with great coders and developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🤔 I’m looking for internships now-a-days.
+- 📫 How to reach me: My Social Handles are Below 👇
 
-<!--
-**akshatmaheshwari1702/akshatmaheshwari1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+ <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true" />
+ <h3 align="center"> Email: <a href="mailto:maheshwariakshat482@gmail.com">maheshwariakshat482@gmail.com</a></h3>
+ <!-- <h3 align="center"> Contact: <a href="tel:+919685970000">9685970000</a></h3> -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://profile-counter.glitch.me/{akshatmaheshwari1702}/count.svg" /><br>
+  Total Visitors 
+</p>
+
+
