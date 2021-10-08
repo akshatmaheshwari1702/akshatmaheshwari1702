@@ -19,7 +19,7 @@ Talk to me about:
 <!-- - 🔔 Subscribe:- [Akshat Maheshwari](#). -->
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true)
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmaheshwari1702&layout=compact" /><br>
 <p align="center">
   
