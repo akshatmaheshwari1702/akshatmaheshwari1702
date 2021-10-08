@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with great coders and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for internships now-a-days.
-- 📫 How to reach me: My Social Handles are Below 👇
+- 📫 How to reach me: https://maheshwariakshat.netlify.app/
 
 
 <p align="center">
