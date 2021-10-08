@@ -21,6 +21,7 @@ Talk to me about:
 
 ![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatmaheshwari1702&show_icons=true)
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmaheshwari1702&layout=compact" /><br>
 <img src="https://profile-counter.glitch.me/{akshatmaheshwari1702}/count.svg" /><br>
   Total Visitors 
 </p>
