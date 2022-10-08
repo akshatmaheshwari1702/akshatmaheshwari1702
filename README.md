@@ -9,7 +9,7 @@
 I am Akshat Maheshwari 😃.I love to explore and learn about new things.
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Front-end development using **HTML, Javascript, CSS, Bootstrap , ReactJs, Next Js**.
 <!-- - Backend development using **NodeJs, Django**. -->
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
