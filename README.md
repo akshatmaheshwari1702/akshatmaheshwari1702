@@ -14,8 +14,7 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-<!-- - 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri). -->
-- 🎯 Portfolio site: [Portfolio](https://maheshwariakshat.netlify.app/).
+- 🎯 Portfolio site: [Portfolio](https://akshat17.vercel.app/).
 <!-- - 🔔 Subscribe:- [Akshat Maheshwari](#). -->
 - ⚡ Fun fact: Internet users blink less than usual.
 
